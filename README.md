@@ -1,5 +1,5 @@
-## QUALITY MOVIE DATA ANALYSIS
-Batch Processing - Analysisng the movie data to get the quality movie based on ratings and extra quality metrics
+# QUALITY MOVIE DATA ANALYSIS
+Batch Processing - Analysing the movie data to get the quality movie based on ratings and extra quality metrics
 
 ## TECHNOLOGIES
 
